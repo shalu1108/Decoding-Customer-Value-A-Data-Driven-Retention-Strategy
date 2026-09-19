@@ -1,4 +1,4 @@
-# Customer Loyalty & Retention Analytics
+# Decoding Customer Value: A Data-Driven Retention Strategy
 
 A D2C fashion brand with 3,900 customers runs an active promo program but has no structured way to tell whether customers stay because they're loyal or because they're discounted. This project builds that structure — from raw transaction data to a validated loyalty framework, SQL-driven segmentation, and a retention playbook.
 
